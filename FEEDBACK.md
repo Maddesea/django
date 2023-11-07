@@ -1,4 +1,4 @@
-# Offering Input on Django Documentation
+# Providing Feedback on Django Documentation
 
 Our goal is to maintain the utmost quality in our documentation, and your input plays a key role in its ongoing improvement.
 
